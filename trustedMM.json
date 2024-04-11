@@ -1,0 +1,21 @@
+[
+    {
+        "uuid": "5633c2e5-8f98-4164-b57c-e2423d225e7f",
+        "addedBy": 1,
+        "name": "GommeHD007",
+        "notice": "Fake MM Clan",
+        "date": [
+            "2023-09-10T17:58:58.000+00:00",
+            "2023-09-10T17:59:30.000+00:00"
+        ]
+    },
+    {
+        "uuid": "49e66cfa-6961-47df-ac30-01bd7f3fb323",
+        "addedBy": 1,
+        "name": "KingMarlin2011",
+        "notice": "Test Object",
+        "date": [
+            "2023-09-10T17:59:30.000+00:00"
+        ]
+    },
+]
