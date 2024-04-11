@@ -26,5 +26,14 @@
         "date": [
             "2024-04-11T22:15:30.000+00:00"
         ]
+    },
+    {
+        "uuid": "53537d4d-21c9-4350-a25e-63cf3a3f2357",
+        "addedBy": 111,
+        "name": "ComRadar",
+        "notice": "Das ComRadar setzt sich selbst als TrustedMM?!?",
+        "date": [
+            "2024-04-19T22:15:30.000+00:00"
+        ]
     }
 ]
