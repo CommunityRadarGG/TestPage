@@ -1,7 +1,6 @@
 [
     {
         "uuid": "5a95cdd8-95e9-4746-99a5-85b93254abcf",
-        "addedBy": 1,
         "name": "Signiert",
         "notice": "Test Object",
         "date": [
@@ -10,19 +9,9 @@
         ]
     },
     {
-        "uuid": "00023e4e-a23f-4fa0-bc92-53ab32dcb2d6",
-        "addedBy": 473596803179216900,
-        "name": "PapaJerryRoots",
-        "notice": "https://www.youtube.com/shorts/lB4HfENhbBg ",
-        "date": [
-            "2023-09-10T17:59:30.000+00:00"
-        ]
-    },
-    {
-        "uuid": "0002df94-a1dd-452c-8634-2595b780c606",
-        "addedBy": 473596803179216900,
-        "name": "MarioMaster2004",
-        "notice": "https://www.youtube.com/shorts/qjmUjXz-4-I ",
+        "uuid": "53537d4d-21c9-4350-a25e-63cf3a3f2357",
+        "name": "ComRadar",
+        "notice": "Dies ist eine Notiz.",
         "date": []
     }
 ]
